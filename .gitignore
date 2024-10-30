@@ -16,4 +16,4 @@
 /model/pts_in_hull.npy
 /model/colorization_release_v2.caffemodel
 /.vscode
-/imageViewer
+/imageViewer.py
